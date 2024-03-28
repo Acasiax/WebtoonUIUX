@@ -11,6 +11,44 @@
 		AA2F75AD2BB178F500314D25 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75AC2BB178F500314D25 /* ContentView.swift */; };
 		AA2F75AF2BB178F700314D25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA2F75AE2BB178F700314D25 /* Assets.xcassets */; };
 		AA2F75B22BB178F700314D25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA2F75B12BB178F700314D25 /* Preview Assets.xcassets */; };
+		AA2F75E22BB1798E00314D25 /* ArtistList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75B92BB1798D00314D25 /* ArtistList.swift */; };
+		AA2F75E32BB1798E00314D25 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75BA2BB1798D00314D25 /* ProfileView.swift */; };
+		AA2F75E42BB1798E00314D25 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75BB2BB1798D00314D25 /* Person.swift */; };
+		AA2F75E52BB1798E00314D25 /* YouTubeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75BC2BB1798D00314D25 /* YouTubeView.swift */; };
+		AA2F75E62BB1798E00314D25 /* SnapCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75BE2BB1798D00314D25 /* SnapCarousel.swift */; };
+		AA2F75E72BB1798E00314D25 /* OffsetModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75BF2BB1798D00314D25 /* OffsetModifier.swift */; };
+		AA2F75E82BB1798E00314D25 /* LookpageHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C02BB1798D00314D25 /* LookpageHome.swift */; };
+		AA2F75E92BB1798E00314D25 /* LookPageDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C12BB1798D00314D25 /* LookPageDetailView.swift */; };
+		AA2F75EA2BB1798E00314D25 /* VideoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C22BB1798D00314D25 /* VideoDetailView.swift */; };
+		AA2F75EB2BB1798E00314D25 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C42BB1798D00314D25 /* DetailView.swift */; };
+		AA2F75EC2BB1798E00314D25 /* TabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C52BB1798D00314D25 /* TabButton.swift */; };
+		AA2F75ED2BB1798E00314D25 /* ColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C62BB1798D00314D25 /* ColorButton.swift */; };
+		AA2F75EE2BB1798E00314D25 /* HomeProductsHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C72BB1798D00314D25 /* HomeProductsHero.swift */; };
+		AA2F75EF2BB1798E00314D25 /* BagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75C82BB1798D00314D25 /* BagView.swift */; };
+		AA2F75F02BB1798E00314D25 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75CA2BB1798D00314D25 /* TabBar.swift */; };
+		AA2F75F12BB1798E00314D25 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75CB2BB1798D00314D25 /* Tab.swift */; };
+		AA2F75F22BB1798E00314D25 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75CC2BB1798D00314D25 /* AccountView.swift */; };
+		AA2F75F32BB1798E00314D25 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75CE2BB1798E00314D25 /* HomeView.swift */; };
+		AA2F75F42BB1798E00314D25 /* PodList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75CF2BB1798E00314D25 /* PodList.swift */; };
+		AA2F75F52BB1798E00314D25 /* NewItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D02BB1798E00314D25 /* NewItems.swift */; };
+		AA2F75F62BB1798E00314D25 /* AlbumList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D12BB1798E00314D25 /* AlbumList.swift */; };
+		AA2F75F72BB1798E00314D25 /* Youtube222.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D22BB1798E00314D25 /* Youtube222.swift */; };
+		AA2F75F82BB1798E00314D25 /* PlanetTapButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D42BB1798E00314D25 /* PlanetTapButton.swift */; };
+		AA2F75F92BB1798E00314D25 /* PlanetDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D52BB1798E00314D25 /* PlanetDetailView.swift */; };
+		AA2F75FA2BB1798E00314D25 /* PlanetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D62BB1798E00314D25 /* PlanetView.swift */; };
+		AA2F75FB2BB1798E00314D25 /* PlanetHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D72BB1798E00314D25 /* PlanetHome.swift */; };
+		AA2F75FC2BB1798E00314D25 /* NoticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D82BB1798E00314D25 /* NoticeView.swift */; };
+		AA2F75FD2BB1798E00314D25 /* CustomCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75D92BB1798E00314D25 /* CustomCorner.swift */; };
+		AA2F75FE2BB1798E00314D25 /* CustomCorner2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75DA2BB1798E00314D25 /* CustomCorner2.swift */; };
+		AA2F75FF2BB1798E00314D25 /* PlanetModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75DC2BB1798E00314D25 /* PlanetModelData.swift */; };
+		AA2F76002BB1798E00314D25 /* AlbumData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75DD2BB1798E00314D25 /* AlbumData.swift */; };
+		AA2F76012BB1798E00314D25 /* chanelookpage.new.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75DE2BB1798E00314D25 /* chanelookpage.new.swift */; };
+		AA2F76022BB1798E00314D25 /* Brand.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75DF2BB1798E00314D25 /* Brand.swift */; };
+		AA2F76032BB1798E00314D25 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75E02BB1798E00314D25 /* ModelData.swift */; };
+		AA2F76042BB1798E00314D25 /* ChanelLookPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F75E12BB1798E00314D25 /* ChanelLookPage.swift */; };
+		AA2F76062BB1A37D00314D25 /* DetailWebtoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F76052BB1A37D00314D25 /* DetailWebtoon.swift */; };
+		AA2F76092BB430E400314D25 /* EpisodesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F76082BB430E400314D25 /* EpisodesListView.swift */; };
+		AA2F760B2BB4367200314D25 /* EpisodesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2F760A2BB4367200314D25 /* EpisodesModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +57,44 @@
 		AA2F75AC2BB178F500314D25 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA2F75AE2BB178F700314D25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA2F75B12BB178F700314D25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA2F75B92BB1798D00314D25 /* ArtistList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistList.swift; sourceTree = "<group>"; };
+		AA2F75BA2BB1798D00314D25 /* ProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		AA2F75BB2BB1798D00314D25 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		AA2F75BC2BB1798D00314D25 /* YouTubeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YouTubeView.swift; sourceTree = "<group>"; };
+		AA2F75BE2BB1798D00314D25 /* SnapCarousel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapCarousel.swift; sourceTree = "<group>"; };
+		AA2F75BF2BB1798D00314D25 /* OffsetModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OffsetModifier.swift; sourceTree = "<group>"; };
+		AA2F75C02BB1798D00314D25 /* LookpageHome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LookpageHome.swift; sourceTree = "<group>"; };
+		AA2F75C12BB1798D00314D25 /* LookPageDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LookPageDetailView.swift; sourceTree = "<group>"; };
+		AA2F75C22BB1798D00314D25 /* VideoDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoDetailView.swift; sourceTree = "<group>"; };
+		AA2F75C42BB1798D00314D25 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		AA2F75C52BB1798D00314D25 /* TabButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabButton.swift; sourceTree = "<group>"; };
+		AA2F75C62BB1798D00314D25 /* ColorButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorButton.swift; sourceTree = "<group>"; };
+		AA2F75C72BB1798D00314D25 /* HomeProductsHero.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeProductsHero.swift; sourceTree = "<group>"; };
+		AA2F75C82BB1798D00314D25 /* BagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BagView.swift; sourceTree = "<group>"; };
+		AA2F75CA2BB1798D00314D25 /* TabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		AA2F75CB2BB1798D00314D25 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		AA2F75CC2BB1798D00314D25 /* AccountView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		AA2F75CE2BB1798E00314D25 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		AA2F75CF2BB1798E00314D25 /* PodList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PodList.swift; sourceTree = "<group>"; };
+		AA2F75D02BB1798E00314D25 /* NewItems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewItems.swift; sourceTree = "<group>"; };
+		AA2F75D12BB1798E00314D25 /* AlbumList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumList.swift; sourceTree = "<group>"; };
+		AA2F75D22BB1798E00314D25 /* Youtube222.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Youtube222.swift; sourceTree = "<group>"; };
+		AA2F75D42BB1798E00314D25 /* PlanetTapButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetTapButton.swift; sourceTree = "<group>"; };
+		AA2F75D52BB1798E00314D25 /* PlanetDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetDetailView.swift; sourceTree = "<group>"; };
+		AA2F75D62BB1798E00314D25 /* PlanetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetView.swift; sourceTree = "<group>"; };
+		AA2F75D72BB1798E00314D25 /* PlanetHome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetHome.swift; sourceTree = "<group>"; };
+		AA2F75D82BB1798E00314D25 /* NoticeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoticeView.swift; sourceTree = "<group>"; };
+		AA2F75D92BB1798E00314D25 /* CustomCorner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCorner.swift; sourceTree = "<group>"; };
+		AA2F75DA2BB1798E00314D25 /* CustomCorner2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCorner2.swift; sourceTree = "<group>"; };
+		AA2F75DC2BB1798E00314D25 /* PlanetModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetModelData.swift; sourceTree = "<group>"; };
+		AA2F75DD2BB1798E00314D25 /* AlbumData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumData.swift; sourceTree = "<group>"; };
+		AA2F75DE2BB1798E00314D25 /* chanelookpage.new.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chanelookpage.new.swift; sourceTree = "<group>"; };
+		AA2F75DF2BB1798E00314D25 /* Brand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Brand.swift; sourceTree = "<group>"; };
+		AA2F75E02BB1798E00314D25 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		AA2F75E12BB1798E00314D25 /* ChanelLookPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChanelLookPage.swift; sourceTree = "<group>"; };
+		AA2F76052BB1A37D00314D25 /* DetailWebtoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailWebtoon.swift; sourceTree = "<group>"; };
+		AA2F76082BB430E400314D25 /* EpisodesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodesListView.swift; sourceTree = "<group>"; };
+		AA2F760A2BB4367200314D25 /* EpisodesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodesModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +127,16 @@
 		AA2F75A92BB178F500314D25 /* WebtoonUIUX */ = {
 			isa = PBXGroup;
 			children = (
+				AA2F76072BB42F4C00314D25 /* webtoonGroup */,
 				AA2F75AA2BB178F500314D25 /* WebtoonUIUXApp.swift */,
 				AA2F75AC2BB178F500314D25 /* ContentView.swift */,
+				AA2F75B82BB1798D00314D25 /* ART */,
+				AA2F75C92BB1798D00314D25 /* DesignTapBar */,
+				AA2F75BD2BB1798D00314D25 /* Geometry Effect Group */,
+				AA2F75C32BB1798D00314D25 /* HeroGoods */,
+				AA2F75D32BB1798E00314D25 /* HeroPlanet */,
+				AA2F75DB2BB1798E00314D25 /* Model */,
+				AA2F75CD2BB1798E00314D25 /* MusicView */,
 				AA2F75AE2BB178F700314D25 /* Assets.xcassets */,
 				AA2F75B02BB178F700314D25 /* Preview Content */,
 			);
@@ -65,6 +149,100 @@
 				AA2F75B12BB178F700314D25 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AA2F75B82BB1798D00314D25 /* ART */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75B92BB1798D00314D25 /* ArtistList.swift */,
+				AA2F75BA2BB1798D00314D25 /* ProfileView.swift */,
+				AA2F75BB2BB1798D00314D25 /* Person.swift */,
+				AA2F75BC2BB1798D00314D25 /* YouTubeView.swift */,
+			);
+			path = ART;
+			sourceTree = "<group>";
+		};
+		AA2F75BD2BB1798D00314D25 /* Geometry Effect Group */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75BE2BB1798D00314D25 /* SnapCarousel.swift */,
+				AA2F75BF2BB1798D00314D25 /* OffsetModifier.swift */,
+				AA2F75C02BB1798D00314D25 /* LookpageHome.swift */,
+				AA2F75C12BB1798D00314D25 /* LookPageDetailView.swift */,
+				AA2F75C22BB1798D00314D25 /* VideoDetailView.swift */,
+			);
+			path = "Geometry Effect Group";
+			sourceTree = "<group>";
+		};
+		AA2F75C32BB1798D00314D25 /* HeroGoods */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75C42BB1798D00314D25 /* DetailView.swift */,
+				AA2F76052BB1A37D00314D25 /* DetailWebtoon.swift */,
+				AA2F75C52BB1798D00314D25 /* TabButton.swift */,
+				AA2F75C62BB1798D00314D25 /* ColorButton.swift */,
+				AA2F75C72BB1798D00314D25 /* HomeProductsHero.swift */,
+				AA2F75C82BB1798D00314D25 /* BagView.swift */,
+			);
+			path = HeroGoods;
+			sourceTree = "<group>";
+		};
+		AA2F75C92BB1798D00314D25 /* DesignTapBar */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75CA2BB1798D00314D25 /* TabBar.swift */,
+				AA2F75CB2BB1798D00314D25 /* Tab.swift */,
+				AA2F75CC2BB1798D00314D25 /* AccountView.swift */,
+			);
+			path = DesignTapBar;
+			sourceTree = "<group>";
+		};
+		AA2F75CD2BB1798E00314D25 /* MusicView */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75CE2BB1798E00314D25 /* HomeView.swift */,
+				AA2F75CF2BB1798E00314D25 /* PodList.swift */,
+				AA2F75D02BB1798E00314D25 /* NewItems.swift */,
+				AA2F75D12BB1798E00314D25 /* AlbumList.swift */,
+				AA2F75D22BB1798E00314D25 /* Youtube222.swift */,
+			);
+			path = MusicView;
+			sourceTree = "<group>";
+		};
+		AA2F75D32BB1798E00314D25 /* HeroPlanet */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75D42BB1798E00314D25 /* PlanetTapButton.swift */,
+				AA2F75D52BB1798E00314D25 /* PlanetDetailView.swift */,
+				AA2F75D62BB1798E00314D25 /* PlanetView.swift */,
+				AA2F75D72BB1798E00314D25 /* PlanetHome.swift */,
+				AA2F75D82BB1798E00314D25 /* NoticeView.swift */,
+				AA2F75D92BB1798E00314D25 /* CustomCorner.swift */,
+				AA2F75DA2BB1798E00314D25 /* CustomCorner2.swift */,
+			);
+			path = HeroPlanet;
+			sourceTree = "<group>";
+		};
+		AA2F75DB2BB1798E00314D25 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F75DC2BB1798E00314D25 /* PlanetModelData.swift */,
+				AA2F75DD2BB1798E00314D25 /* AlbumData.swift */,
+				AA2F75DE2BB1798E00314D25 /* chanelookpage.new.swift */,
+				AA2F75DF2BB1798E00314D25 /* Brand.swift */,
+				AA2F75E02BB1798E00314D25 /* ModelData.swift */,
+				AA2F75E12BB1798E00314D25 /* ChanelLookPage.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AA2F76072BB42F4C00314D25 /* webtoonGroup */ = {
+			isa = PBXGroup;
+			children = (
+				AA2F76082BB430E400314D25 /* EpisodesListView.swift */,
+				AA2F760A2BB4367200314D25 /* EpisodesModel.swift */,
+			);
+			path = webtoonGroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +315,46 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA2F75E42BB1798E00314D25 /* Person.swift in Sources */,
+				AA2F75F42BB1798E00314D25 /* PodList.swift in Sources */,
+				AA2F76002BB1798E00314D25 /* AlbumData.swift in Sources */,
+				AA2F760B2BB4367200314D25 /* EpisodesModel.swift in Sources */,
+				AA2F75EB2BB1798E00314D25 /* DetailView.swift in Sources */,
+				AA2F75EA2BB1798E00314D25 /* VideoDetailView.swift in Sources */,
+				AA2F75FB2BB1798E00314D25 /* PlanetHome.swift in Sources */,
+				AA2F75F62BB1798E00314D25 /* AlbumList.swift in Sources */,
+				AA2F75FA2BB1798E00314D25 /* PlanetView.swift in Sources */,
+				AA2F75F92BB1798E00314D25 /* PlanetDetailView.swift in Sources */,
+				AA2F75ED2BB1798E00314D25 /* ColorButton.swift in Sources */,
+				AA2F75E62BB1798E00314D25 /* SnapCarousel.swift in Sources */,
+				AA2F76092BB430E400314D25 /* EpisodesListView.swift in Sources */,
+				AA2F75E32BB1798E00314D25 /* ProfileView.swift in Sources */,
+				AA2F75E52BB1798E00314D25 /* YouTubeView.swift in Sources */,
+				AA2F76012BB1798E00314D25 /* chanelookpage.new.swift in Sources */,
+				AA2F75FC2BB1798E00314D25 /* NoticeView.swift in Sources */,
+				AA2F75F02BB1798E00314D25 /* TabBar.swift in Sources */,
+				AA2F75E22BB1798E00314D25 /* ArtistList.swift in Sources */,
+				AA2F75E82BB1798E00314D25 /* LookpageHome.swift in Sources */,
+				AA2F76022BB1798E00314D25 /* Brand.swift in Sources */,
+				AA2F76062BB1A37D00314D25 /* DetailWebtoon.swift in Sources */,
+				AA2F75E72BB1798E00314D25 /* OffsetModifier.swift in Sources */,
+				AA2F75F82BB1798E00314D25 /* PlanetTapButton.swift in Sources */,
+				AA2F75FE2BB1798E00314D25 /* CustomCorner2.swift in Sources */,
+				AA2F75EC2BB1798E00314D25 /* TabButton.swift in Sources */,
+				AA2F75F72BB1798E00314D25 /* Youtube222.swift in Sources */,
 				AA2F75AD2BB178F500314D25 /* ContentView.swift in Sources */,
+				AA2F75FD2BB1798E00314D25 /* CustomCorner.swift in Sources */,
+				AA2F75F32BB1798E00314D25 /* HomeView.swift in Sources */,
+				AA2F75F22BB1798E00314D25 /* AccountView.swift in Sources */,
+				AA2F75EE2BB1798E00314D25 /* HomeProductsHero.swift in Sources */,
+				AA2F76042BB1798E00314D25 /* ChanelLookPage.swift in Sources */,
+				AA2F76032BB1798E00314D25 /* ModelData.swift in Sources */,
+				AA2F75EF2BB1798E00314D25 /* BagView.swift in Sources */,
+				AA2F75F12BB1798E00314D25 /* Tab.swift in Sources */,
+				AA2F75F52BB1798E00314D25 /* NewItems.swift in Sources */,
 				AA2F75AB2BB178F500314D25 /* WebtoonUIUXApp.swift in Sources */,
+				AA2F75E92BB1798E00314D25 /* LookPageDetailView.swift in Sources */,
+				AA2F75FF2BB1798E00314D25 /* PlanetModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

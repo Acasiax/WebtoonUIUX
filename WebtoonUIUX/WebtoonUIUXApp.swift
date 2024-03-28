@@ -11,7 +11,10 @@ import SwiftUI
 struct WebtoonUIUXApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBar(selectedYoutube: .constant(nil), selectedBrand: .constant(nil))
+         
+               // .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            
         }
     }
 }
